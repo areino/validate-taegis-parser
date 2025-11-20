@@ -239,17 +239,12 @@ Ensure you're using a valid environment identifier (US1, US2, US3, EU, or their 
 
 ## Related Documentation
 
-- [Taegis SDK for Python Documentation](https://code.8labs.io/platform/sdks/taegis_sdk_python)
+- [Taegis SDK for Python Documentation](https://github.com/secureworks/taegis-sdk-python/)
 - [Taegis API Authentication Guide](https://docs.ctpx.secureworks.com/apis/api_authenticate/)
-- [Taegis Roadrunner Service](https://code.8labs.io/platform/sdks/taegis_sdk_python)
+
 
 ## License
 
 This tool is provided as-is for use with the Taegis platform.
 
-## Support
 
-For issues related to:
-- **This script**: Check the troubleshooting section or file an issue
-- **Taegis SDK**: Refer to the SDK documentation
-- **Taegis API**: Contact Taegis support
